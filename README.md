@@ -1,2 +1,3 @@
-# ExpenseTraker
-This app tracks your expences
+# personal_expence_app
+
+Tracks your expences.
